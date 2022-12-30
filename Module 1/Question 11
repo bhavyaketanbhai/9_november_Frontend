@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CSS dynamic pseudo-classes</title>
+        <style>
+            body {
+                font-family: sans-serif;
+            }
+            
+            h1, h2 {
+                font-family: cursive;
+            }
+            
+            a:link {
+                color: red;
+            }
+            a:visited {
+                color: orange;
+            }
+            a:hover { 
+                background-color: rgb(255, 214, 255);
+            }  
+            a:active {
+                background-color: rgb(255, 214, 255);
+            } 
+            a:focus {
+                background-color: rgb(255, 214, 255);
+            } 
+        </style>
+    </head>
+    <body>
+    
+        <h1>Famous paintings</h1>
+        
+        <p>You can learn more about these famous paintings on <a href="https://www.google.com/">google</a>.</p>
+        
+        
+        <h2>Baroque</h2>
+        <ul>
+            <li>
+                <a href="https://www.google.com/">
+                    Velázquez, Las Meninas
+                </a>
+            </li>
+            <li>
+                <a href="https://www.google.com/">Caravaggio, Calling of St. Matthew</a>
+            </li>
+            <li>
+                <a href="https://www.google.com/">Rembrandt, Night watch</a>
+            </li>
+        </ul>
+        
+        <h2>Mannerism</h2>
+        <ul>
+            <li>
+                <a href="https://www.google.com/">
+                    Parmigianino, Madonna of the Long Neck
+                </a>
+            </li>
+            <li>
+                <a href="https://www.google.com/">
+                    El Greco, View of Toledo
+                </a>
+            </li>
+        </ul>
+        
+        <h2>Abstract</h2>
+        <ul>
+            <li>
+                <a href="https://www.google.com/">
+                    Picasso, Guernica
+                </a>
+            </li>
+            <li>
+                <a href="https://www.google.com/">
+                    Braque, The Portuguese
+                </a>
+            </li>
+        </ul>
+        
+        
+
+    </body>
+</html>
