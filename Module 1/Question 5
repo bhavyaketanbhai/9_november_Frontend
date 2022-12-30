@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        td{
+            width: 50px;
+            height: 25px;
+        }
+        table{
+            width:100px;
+        }
+    </style>
+</head>
+<body>
+    <table border="1">
+       <tr>
+        <th>ClassName</th>
+        <th>Time</th>
+        <th>Day</th>
+        <th>Subject</th>
+    </tr>
+
+       <tr>
+        <td colspan="1">Mcs 2</td>
+        <td>18:00 21:00</td>
+        <td>Monday</td>
+        <td>OOP</td>
+       </tr>
+
+       <tr>
+        <td>Mcs 2</td>
+        <td>18:00 21:00</td>
+        <td>Tuesday</td>
+        <td>DBMS</td>
+       </tr>
+
+       <tr>
+        <td>Mcs 2</td>
+        <td>18:00 21:00</td>
+        <td>Wednesday</td>
+        <td>c++</td>
+       </tr>
+
+       <tr>
+        <td>Mcs 2</td>
+        <td>18:00 21:00</td>
+        <td>Thursday</td>
+        <td>c</td>
+       </tr>
+
+       <tr>
+        <td>Mit 2</td>
+        <td>18:00 21:00</td>
+        <td>Friay</td>
+        <td>Datawarehouse</td>
+       </tr>
+    </table>
+</body>
+</html>
