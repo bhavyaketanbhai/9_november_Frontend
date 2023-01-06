@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+}
+.container{
+    background-color: lightgray;
+    padding: 20px;
+}
+
+.btn{
+    background-color: green;
+    color: white;
+}

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form action="">
+        <h1>Student Registration form</h1>
+    <div class="container">
+          <div class="form">
+            <label for="">Username:</label><br>
+            <input type="text" id="Username" name="Username" placeholder="Enter your Username" required><br>
+
+            <label for="">Lastname:</label><br>
+            <input type="text" id="Lastname" name="Lastname" placeholder="Enter your Lastname" required><br>
+
+            <label for="">Email:</label><br>
+            <input type="email" id="Email" name="Email" placeholder="it should contain @..." required><br>
+
+            <label for="">Mobile:</label><br>
+            <input type="mobile" id="Mobile" name="Mobile" placeholder="only 10 digits are allowed" required><br>
+
+            <label for="">Gender:</label><br>
+            <input type="radio" name="Gender" id="male" value="Male" required>
+            <label for="#">Male</label>
+
+            <input type="radio" name="Gender" id="female" value="Female" required>
+            <label for="#">Female</label><br>
+
+            <label for="">Date of birth:</label><br>
+            <input type="date" id="date" name="date" required><br>
+             
+            
+            Address:<br>  
+            <textarea rows="2" cols="20"></textarea><br>
+
+            <label for="">City:</label><br>
+            <input type="City" id="City" name="City" required><br>
+
+            <label for="">Area Pin:</label><br>
+            <input type="Area Pin" id="Area Pin" name="Area Pin" required><br>
+
+            <label for="">State:</label><br>
+            <input type="State" id="State" name="State" required><br>
+
+            <label for="#">Qualification:</label><br>
+            <select name="Select Qualification" id="Select Qualification">
+               <option value="Select Qualification">Select Qualification</option>             
+               <option value="BBA">BBA</option>
+               <option value="BCA">BCA</option>
+               <option value="BCOM">BCOM</option>
+               <option value="MBA">MBA</option>
+               <option value="MCA">MCA</option>
+            </select><br>
+
+            <label for="">Specialization:</label><br>
+            <input type="checkbox" name="Computer Science" id="Computer Science" value="Computer Science" required>
+            <label for="#">Computer Science</label><br>
+
+            <input type="checkbox" name="Information Technology" id="Information Technology" value="Information Technology" required>
+            <label for="#">Information Technology</label><br>
+
+            <input type="checkbox" name="Computer Architecture" id="Computer Architecture" value="Computer Architecture" required>
+            <label for="#">Computer Architecture</label><br>
+
+            <input type="checkbox" name="Tele Communication" id="Tele Communication" value="Tele Communication" required>
+            <label for="#">Tele Communication</label><br>
+
+            <label for="">Password:</label><br>
+            <input type="password" id="Password" name="Password" required><br><br>
+
+            <button type="button" class="btn">Registered</button>
+          </div>
+    </div>
+</form>
+</body>
+</html>
