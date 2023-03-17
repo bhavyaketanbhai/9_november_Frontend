@@ -1,0 +1,214 @@
+/************************ 
+Tops technologies logo set 
+*************************/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#center {
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+    /* position: fixed;
+    margin-left: 600px;
+    overflow-x: hidden; */
+}
+
+#bg-color {
+    background: #ECF5FB;
+    height: 74px;
+}
+
+/********* 
+login-form 
+**********/
+
+
+.login-bg {
+    margin: 0 50px;
+    background-image: url(https://careercenter.tops-int.com/images/login/login-bg.png);
+    background-size: cover;
+    height: 600px;
+}
+
+.text-blue-1 {
+    color: #4c92be;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.row {
+    text-align: center;
+}
+
+.border-blue #text-black {
+
+    color: #3d3d3d;
+    font-size: 25px;
+    line-height: 50px;
+    font-weight: bolder;
+}
+
+.mobile-2 {
+    margin-right: 200px;
+}
+
+#mobile {
+    margin-top: 10px;
+    line-height: 1rem;
+    margin-right: 160px;
+}
+
+.password-3 {
+
+    margin-right: 240px;
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+}
+
+.border-blue {
+    position: relative;
+    width: 400px;
+    height: 432px;
+    background: #edf5fb;
+    border-radius: 8px;
+    border: 2px solid #5295c0;
+    box-shadow: 0px 5px 15px rgba(212, 212, 212, 255);
+}
+
+.password-3 {
+    line-height: 3rem;
+}
+
+#password {
+    margin-top: 1px;
+    height: 35px;
+    border-radius: 4px;
+    width: 70%;
+    margin-right:20px; ;
+}
+
+#mobile {
+    height: 35px;
+    border-radius: 4px;
+    background: white;
+    width: 75%;
+    margin-right: 20px;
+    border-color: darkgray
+}
+
+#text-black-1{
+    font-size: 25px;
+    color: #3d3d3d;
+    font-weight: bold;
+}
+
+.Mobile{
+    padding: 15px;
+}
+/************** 
+forgot password 
+****************/
+
+.text-blue {
+    text-decoration: none;
+    margin-right: 190px;
+    line-height: 3rem;
+    color: #5a9ac3;
+}
+
+
+/*********** 
+button 
+************/
+
+
+.btn-brand {
+    background: linear-gradient(273.57deg, #2E3192 1.14%, #4C92BE 100%);
+    color: #fff;
+    border-radius: 5px;
+    padding: 0.5rem 1.5rem;
+    border-top: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+    border-right: none;
+    border-left: none;
+    width: 235px;
+   
+}
+
+
+.btn-brand:before {
+    height: 0;
+    width: 2px;
+}
+
+.btn-brand:hover,
+.btn-brand:focus {
+    box-shadow: 3px 3px 6px 0 rgba(255, 255, 255, .5),
+        -3px -3px 6px 0 rgba(116, 125, 136, .5),
+        inset -3px -3px 6px 0 rgba(255, 255, 255, .2),
+        inset 3px 3px 6px 0 rgba(0, 0, 0, .4) !important;
+    color: #fff;
+}
+
+
+/********* 
+link hover 
+**********/
+
+#forgotpasswordbtn:hover{
+    cursor: pointer;
+    color: #4f95de;
+}
+
+
+/****************** 
+content start here 
+*******************/
+
+.paragraph-1{
+    position: absolute;
+    left: 50%;
+    /* top: 600px; */
+    top: 650px;
+    transform: translateX(-50%);
+    background-color: #5497c0;
+    color: #fff;
+    white-space: nowrap;
+    padding: 10px 15px;
+    border-radius: 20px;
+    /* height: 3%; */
+    /* box-shadow: 0 10px 10px rgba(84,151,192,255); */
+    /* font-size: 20px; */
+    /* width: 850px; */
+}
+
+
+.paragraph-1::before{
+    content: "";
+    position: absolute;
+    left: 50%;
+    /* top: 100%; */
+    transform: translateX(-50%) rotate(45deg);
+    background: rgba(84,151,192,255);
+    height: 15px;
+    width: 15px;
+    bottom: -8px;
+}
+
+/************* 
+footer 
+**************/
+image .image-4{
+    float: right;
+}
