@@ -1,40 +1,248 @@
 /********** 
 general css 
 ***********/
-
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-size: 15px;
 }
-body{
-    min-height: 100vh;
-}
+
+
 /********** 
 logo here 
 ***********/
+
 .logo{
-    padding: 13px;
+    height: 3rem;
+    margin: 15px;
+    cursor: pointer;
 }
-.la-pinoz-logo {
-    height: 50px;
+
+.logowrap{
     margin-left: 155px;
 }
 
-
-/************** 
-navigation here 
-***************/
-
-.list-items{
-    text-decoration: none;
+/*******************
+ navigation bar here 
+********************/
+.menuul{
     list-style-type: none;
-    color:#387c5b;
+}
+.menuul a{
+    text-decoration: none;
+    color: #1d6a45;
 }
 
-.items{
-    display: inline-block;
-    padding: 20px ;
-    
+.navbar{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    width: 100%;
 }
+
+.menuwrap ul li{
+    display: inline-block;
+    padding: 15px;
+}
+
+/**************** 
+login button here 
+*****************/
+
+.btn-login{
+    margin-right: 150px;
+    background-color: #1d6a45;
+    color: white;
+    border-radius: 4px;
+    padding: 5px 13px;
+    cursor: pointer;
+}
+
+/*************
+image-slider 
+**************/
+.slide-1{
+    width: 100%;
+    height: 655px;
+}
+
+
+/***************** 
+heading design here 
+******************/
+
+.heading-1{
+    font-size: 25px;
+    padding: 10px;
+    margin-left: 4px;
+    color:#241c1c;
+}
+
+/*************** 
+deals-banner here 
+****************/
+
+.deals-banner-1{
+    height: 250px;
+    margin-left: 60px;
+    cursor: pointer;
+    border-radius: 17px;
+}
+
+.deals-banner-2{
+    height: 250px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 17px;
+}
+
+.deals-banner-3{
+    width: 400px;
+    height: 250px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 17px;
+}
+
+.deals-banner{
+    line-height: 100px;
+}
+
+/******************* 
+explore section here 
+********************/
+
+.common-sec {
+    padding: 25px 0;
+    background:#f8f8f8;
+}
+.common-heading {
+    font-size: 24px;
+    font-weight: 700;
+}
+.explore-menu .row {
+    align-items: center;
+}
+
+.upper-heading {
+    padding-bottom: 12px;
+    margin-left: 50px;
+}
+.explore-menu-ul {
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding-top: 15px;
+}
+.explore-menu-ul li {
+    width: 100%;
+    max-width: 16.66%;
+    padding: 0 5px;
+}
+.menu-placeholder {
+    width: 100%;
+    max-width: 167px;
+    height: 167px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.menu-placeholder img {
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+	object-fit: cover;
+	-webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    transition: 0.7s backface-visibility hidden;
+}
+.explore-menu-ul .explore-menu-title  {
+    margin: 0px;
+    text-align: center;
+    font-size: 15px;
+    color: #201C1D;
+    padding: 0 10px;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+.explore-menu-ul li:hover .explore-menu-title {
+	color: #006630;
+} 
+
+
+/***********************
+ best seller section here 
+************************/
+.bestseller-container {
+    padding-right: 15px;
+    padding-left: 15px;
+    max-width: 350px;
+    margin: 0 auto;
+}
+.item-placeholder {
+    width: 100%;
+    height: 274px;
+    overflow: hidden;
+    max-width: 100%;
+    position: relative;
+}
+.item-placeholder:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 85px;
+    background: linear-gradient(180deg, rgba(0,0,0,0), #111);
+}
+.item-placeholder .bestseller-placeholder {
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+	height: 100%;
+	object-fit: cover;
+	-webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    transition: 0.7s backface-visibility hidden;
+}
+.item-placeholder:hover .bestseller-placeholder {
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    transform: scale(1.05);
+}
+
+.item-outer {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 4px 7px rgb(0 0 0 / 10%);
+    background-color: #fff;
+}
+
+.item-details {
+    padding: 15px 15px;
+}
+.item-details .item-heading {
+    display: flex;
+}
+
+.item-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+.heading-customize {
+    color: #848484;
+    font-size: 14px;
+    margin-bottom: 8px;
+    display: block;
+}
+
