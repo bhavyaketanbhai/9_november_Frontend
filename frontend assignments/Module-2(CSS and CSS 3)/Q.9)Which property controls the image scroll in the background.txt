@@ -1,0 +1,3 @@
+9.Which property controls the image scroll in the background?
+
+A) -> background-attachment property controls the image scroll in the background.

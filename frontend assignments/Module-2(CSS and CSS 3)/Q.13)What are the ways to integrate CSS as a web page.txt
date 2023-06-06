@@ -1,0 +1,7 @@
+13.What are the ways to integrate CSS as a web page?
+
+A) there are three ways to integrate CSS as a web page
+
+(i)inline css
+(ii)external css
+(iii)internal

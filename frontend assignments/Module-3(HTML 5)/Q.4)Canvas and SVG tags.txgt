@@ -1,0 +1,15 @@
+4.Canvas and SVG tags 
+
+A)svg:-
+
+SVG stands for Scalable Vector Graphics.SVG is used to define graphics for the Web
+
+Canvas:-
+
+Canvas element is used to draw graphics on a web pag
+
+he HTML <canvas> element is used to draw graphics, on the fly, via JavaScript
+
+ The <canvas> element is only a container for graphics. You must use JavaScript to actually draw the graphics
+
+

@@ -1,0 +1,7 @@
+6.How can the background color of an element be changed?
+
+A) We can changed the background color of an element with the help of "background-color" Property 
+
+-> Then set the color name, and or hash tag code in style attribute.
+
+like this background color element can be changed.

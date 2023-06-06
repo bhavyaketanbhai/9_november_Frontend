@@ -1,0 +1,13 @@
+18.What is SVG? 
+
+A) SVG stands for scalable vector graphics it is in xml format 
+
+->it is new format of image
+
+->it is different from bitmap images
+
+->we can also do zoom in the picture
+
+->picture is not blury while zooming
+
+thus is knowns as svg

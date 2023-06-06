@@ -1,0 +1,13 @@
+8.What are the various formatting tags in HTML? 
+A)  The various formatting tags in html are as follows:-
+    {i}<b>
+    {ii}<strong>
+    {iii}<i>
+    {iv}<sub>
+    {v}<sup>
+    {vi}<ins>
+    {vii}<em>
+    {viii}<mark>
+    {ix}<small>
+
+    

@@ -1,0 +1,6 @@
+3.What are void elements in HTML?
+A) void elements:- void elements are those elements who have only opening tags
+                   they don't have a closing tag 
+                        
+                   it only containes attributes.
+                   example:-> <br>,<hr>,<img>,<meta>

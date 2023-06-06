@@ -1,0 +1,13 @@
+7.What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
+
+A) ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+                                difference
+   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+   id                                                                  class
+{i}it is unique we can use it for                    we can create one or more 
+   one time only                                     than class name we can use
+                                                     it many times.
+
+{ii}we can use "#" symbol in stylesheet              we can"."symbol stylesheet
+

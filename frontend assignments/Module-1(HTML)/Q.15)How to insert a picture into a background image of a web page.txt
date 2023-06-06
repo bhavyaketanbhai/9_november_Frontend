@@ -1,0 +1,7 @@
+16.How to insert a picture into a background image of a web page? 
+
+A)to insert picture into a background image,you need to tag a code after the </head> 
+
+-> <body background="image.jpg"
+
+now,replace image with the name of your file.This will take picture and make it the background image of your web page.

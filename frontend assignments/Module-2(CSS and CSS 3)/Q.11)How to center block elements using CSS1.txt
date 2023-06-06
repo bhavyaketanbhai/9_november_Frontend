@@ -1,0 +1,5 @@
+11.How to center block elements using CSS1
+
+A) ->we can center block elements in CSS1 by:-
+
+-> by margin-left and margin-right to auto and some width give value to width according to it needs.

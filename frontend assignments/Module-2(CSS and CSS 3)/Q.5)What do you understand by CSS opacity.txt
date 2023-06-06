@@ -1,0 +1,15 @@
+5.What do you understand by CSS opacity
+
+A) CSS opacity:-
+
+-> with the help of css opacity we can make any element transparent.
+
+-> the value of opacity will be 0 and 1.
+
+-> 0 means full transparent.
+
+-> 1 means non-transparent.
+
+-> by default value of  opacity is 1.
+
+    Thus what we understand by css opacity.

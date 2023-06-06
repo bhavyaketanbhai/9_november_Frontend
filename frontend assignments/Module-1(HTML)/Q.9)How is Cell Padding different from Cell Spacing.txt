@@ -1,0 +1,13 @@
+9.How is Cell Padding different from Cell Spacing? 
+A)Cell Padding:-
+
+-> Cell Padding means it basically space between the content is called the Cells Padding
+
+->we can use cell Padding attribute in table tag
+
+
+
+Cell Spacing:-
+-> Cell Spacing means it basically space between border one cells or more than one cells is called cells Spacing
+
+->we can also use cell spacing attribute in table tag 

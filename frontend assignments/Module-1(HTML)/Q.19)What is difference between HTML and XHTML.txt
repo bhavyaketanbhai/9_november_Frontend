@@ -1,0 +1,26 @@
+19.What is difference between HTML and XHTML?
+
+A)
+
+HTMl:-
+
+->HTML stands for hyper text markup language
+
+->DOCTYPE is not required 
+
+->html code will not show any error 
+
+->there is no right structure in html
+
+XHTML:-
+
+->XTML stands for extensible markup language
+
+->DOCTYPE is required in first line 
+
+->it will also not show the error but yes it one of the best method to set standard and make it easy to remember/debug and maintain
+
+->there is right structure in xhtml and designed well
+
+
+thus is known as difference between html and xhtml

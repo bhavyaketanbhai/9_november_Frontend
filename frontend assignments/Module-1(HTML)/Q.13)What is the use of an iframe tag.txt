@@ -1,0 +1,10 @@
+14.What is the use of an iframe tag?
+A){i} it used to displayed a page within a webpage.
+
+-> The another name of the iframe tag is inline frame
+
+-> inline frame is used to embed another document within the current html document
+
+syntax of iframe:-
+
+<iframe src="url" title="description"></iframe>

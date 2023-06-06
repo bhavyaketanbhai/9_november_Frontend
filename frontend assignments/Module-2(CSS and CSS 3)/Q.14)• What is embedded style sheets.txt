@@ -1,0 +1,9 @@
+14. What is embedded style sheets?
+
+A) ->Also known as internal or embedded stylesheet
+    ->This can be used when a single HTML document must be styled uniquely. 
+    ->CSS files can be embedded internally by declaring them in <style> tag.
+    Syntax:-
+        <style>
+            /*declarations*/
+        </style>

@@ -1,0 +1,8 @@
+17.What are the different tags to separate sections of text? 
+
+A) <br> tag is used to separate line of text.
+
+<p> tag is used to take contains the text in the form of new paragraph .
+
+<blockquote> is used to define large quoted sections
+

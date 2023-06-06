@@ -1,0 +1,7 @@
+18.What are the media types allowed by CSS
+
+A)  Types of media query:
+  ->All  (includes all media types)
+  ->screen (Used for computer screens, tablets, smart-phones etc.)
+  ->prient (Used for printers)
+  ->speech (Used for screen readers that "reads" the page out loud)

@@ -1,0 +1,3 @@
+2.How to embed audio and video in a webpage?
+
+A)first need the src attribute and neeed controls to play and push audio video in webpage

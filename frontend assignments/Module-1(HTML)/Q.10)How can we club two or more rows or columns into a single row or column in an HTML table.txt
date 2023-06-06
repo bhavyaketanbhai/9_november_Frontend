@@ -1,0 +1,3 @@
+11.How can we club two or more rows or columns into a single row or column in an HTML table
+
+A) ->we can do with rowspan and colspan attribute in html 

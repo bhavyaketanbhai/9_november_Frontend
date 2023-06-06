@@ -1,0 +1,4 @@
+1.What are the new tags added in HTML5?
+
+A)The following tags (elements) have been introduced in HTML5
+ aside,header,footer,nav,summary,hgroup,details,datalist,section,video,audio,svg,canvas,embed,progress

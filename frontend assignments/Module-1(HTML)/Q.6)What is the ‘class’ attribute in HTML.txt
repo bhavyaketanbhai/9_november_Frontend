@@ -1,0 +1,3 @@
+6.What is the ‘class’ attribute in HTML? 
+A)class attribute:- it means where we can use one or more than class names
+                    'point' symbol is used to print to a class in stylesheet

@@ -1,0 +1,9 @@
+7.How can image repetition of the backup be controlled?
+
+A) The background-repeat Property in css is used to repeat the background image both horizontally and vertically 
+
+->it also decides whether the background image will repeat or not.
+
+-> with the help of this image repetition of the backup be controlled.
+
+   Thus how we can image repetition of the backup be controlled.

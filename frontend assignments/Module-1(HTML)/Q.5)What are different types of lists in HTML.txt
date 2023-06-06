@@ -1,0 +1,5 @@
+5.What are different types of lists in HTML?
+A)There are total three different type of list in html are as follows:-
+   {i}ordered list
+   {ii}unorderd list
+   {iii}nested list

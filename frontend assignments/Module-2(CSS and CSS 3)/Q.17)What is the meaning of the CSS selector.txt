@@ -1,0 +1,4 @@
+17.What is the meaning of the CSS selector?
+
+A)It is a pattern of elements and other terms that tell the browser <br> which HTML elements should be selected to have the CSS property values inside the rule applied to them. 
+

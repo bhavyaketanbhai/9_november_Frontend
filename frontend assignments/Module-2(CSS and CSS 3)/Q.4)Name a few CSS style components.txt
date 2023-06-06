@@ -1,0 +1,5 @@
+4.Name a few CSS style components?
+
+A) -> Selector: class name, id name or element name that is target
+ ->Attribute: name of the attribute you want to style for example border, color,->background, position etc.
+ ->Value of Property: value that will be assigned to attribute.

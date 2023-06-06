@@ -1,0 +1,9 @@
+2.What are tags and attributes in HTML?
+A. {i} tags:- tags are actually opening and enclosing tag 
+              it containes angle brackets
+   {ii}attributes:- it containes additional piece of information 
+                    information is placed inside the opening and closing tag.
+                     
+                    example:- <p class="important" this is important</p>
+
+    

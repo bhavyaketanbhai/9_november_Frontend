@@ -1,0 +1,8 @@
+13.How to create a Hyperlink in HTML?
+A)syntax:-
+
+-> <a> it defines Hyperlink
+
+-> <a href="url">text</a>
+
+        Thus how we can create Hyperlink

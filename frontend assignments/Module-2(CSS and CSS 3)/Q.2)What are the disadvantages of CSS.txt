@@ -1,0 +1,11 @@
+2.What are the disadvantages of CSS? 
+
+A) ->css doesnt support the earlier browser like netscape 4.0
+
+->limited security but css is better then html but provide lots of security is good
+
+->css creates confusion for begineers and non developers
+
+->css is not secure
+
+->some styles are supported some are not

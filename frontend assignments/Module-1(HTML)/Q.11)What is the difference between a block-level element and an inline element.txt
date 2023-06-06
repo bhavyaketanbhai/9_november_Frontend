@@ -1,0 +1,17 @@
+12.What is the difference between a block-level element and an inline element?
+A) difference between block level element and inline element are follows as under:-
+
+{i} Block level elements:-
+
+->it takes full width 
+
+->it takes a new line 
+
+example:- <p></p>,<div></div>
+
+{ii}inline element:-
+->it doesnt takes full width it takes only necesscary width
+
+->it doesnt take a new line
+
+example:-<a>,<cite>,<span>,<abbr> etc

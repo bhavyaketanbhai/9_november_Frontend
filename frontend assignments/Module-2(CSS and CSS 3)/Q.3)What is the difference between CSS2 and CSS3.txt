@@ -1,0 +1,26 @@
+3.What is the difference between CSS2 and CSS3?
+
+A) the main difference between CSS2 and CSS3 are as follows:-
+
+CSS2:-
+
+-> In CSS2 media queries was not supported
+
+-> Transition was not there in CSS2
+
+-> animation where not introduced in CSS2
+
+-> Selectors where less compared to CSS2
+
+CSS3:-
+
+-> In CSS3 media queries is supported
+
+-> Transition were introduced in CSS3
+
+-> animation was supported in CSS3
+
+-> There are more Selectors included in CSS3 like nth-child Selectors etc.
+
+
+Thus are the some difference between CSS2 and CSS3

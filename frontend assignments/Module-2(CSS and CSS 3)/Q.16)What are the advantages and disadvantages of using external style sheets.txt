@@ -1,0 +1,17 @@
+16.What are the advantages and disadvantages of using external style sheets?
+
+A)advantages:-
+
+-> we can link that file style sheets of css we can link that file inside the several html files so because of that reusability is possibile.
+
+->we can write many lines of css code in this. 
+
+->improve in the perfomance with the help of external css
+
+disadvantages:-
+
+->if we are not using external css then we can link that html file only one time 
+
+->too many lines of csscode increases in html file. 
+
+->An external style sheet requires an additional HTTP request to load, which can slightly increase the time it takes for the page to render.

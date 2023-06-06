@@ -1,0 +1,7 @@
+1. Are the HTML tags and elements the same thing? 
+A. {i} tags and elements are not same
+   {ii}tags:- it is just opening and closing tag ex:-<p></p> this called html 
+              tags
+   {iii}elements:- its hold the content ex:-<p>This is paragraph</p>
+ 
+

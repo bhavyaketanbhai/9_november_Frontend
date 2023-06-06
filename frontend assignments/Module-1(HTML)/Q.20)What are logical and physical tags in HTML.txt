@@ -1,0 +1,13 @@
+20.What are logical and physical tags in HTML?
+
+A)logical tag:-
+
+->it is used to tell the meaning of enclosed text
+
+-> the example of logical tag is <strong></strong>
+
+physical tag:-
+
+->it tells the browser how to display the text enclosed in physical tag.
+
+->the example of physical tag are <b>,<big>,<i>.
