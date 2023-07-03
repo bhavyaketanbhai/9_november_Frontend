@@ -1,0 +1,7 @@
+14.What are all the types of Pop up boxes available in JavaScript
+
+A) There are the three types of pop up box available in JavaScript are as follows:-
+
+(i)Alert box
+(ii)confirm box
+(iii)prompt box

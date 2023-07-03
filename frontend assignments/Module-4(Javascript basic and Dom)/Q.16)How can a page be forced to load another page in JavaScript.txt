@@ -1,0 +1,3 @@
+16.How can a page be forced to load another page in JavaScript
+
+A)in JavaScript you can use the location object to load another page the location object contains information about the current url and provides method to navigate to new url .

@@ -1,0 +1,5 @@
+9.How can the style/class of an element be changed
+
+A) to change the style of an element using JavaScript you can use style property to set the css property of the element.
+
+to change the class of an element using JavaScript you can use the classlist property to add or remove class from the element

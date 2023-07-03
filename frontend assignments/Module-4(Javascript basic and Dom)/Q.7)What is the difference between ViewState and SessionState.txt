@@ -1,0 +1,9 @@
+7.What is the difference between ViewState and SessionState
+
+A)ViewState and SessionState are both ways to persist data in a web application, but they are used for different purposes.
+
+ViewState is used to persist data between postbacks of a single web page. The ViewState is a hidden field that is automatically included in the form sent to the server when the page is submitted. It stores data as a string and is used to maintain the state of controls on the page between postbacks, such as the values of text boxes and drop-down lists. ViewState is stored on the client-side in the HTML page itself.
+
+SessionState, on the other hand, is used to persist data between different pages in a web application. SessionState is stored on the server-side and is unique to each user session. It can be used to store user-specific data, such as a user's name or preferences, and can be accessed from any page in the application. SessionState data is stored on the server and is not sent to the client as part of the HTML page.
+
+In summary, ViewState is used to persist data between postbacks of a single web page, while SessionState is used to persist data between different pages in a web application. ViewState is stored on the client-side, while SessionState is stored on the server-side.

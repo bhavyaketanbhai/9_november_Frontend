@@ -1,0 +1,3 @@
+3.What is negative Infinity?
+
+A) negative infinity is a special value that represents the lowest possible number.it is constant value that is used to represents a number that is smaller than any other number including negative number.

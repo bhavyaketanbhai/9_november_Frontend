@@ -1,0 +1,7 @@
+10.How to read and write a file using JavaScript
+
+A) in JavaScript you can read and write file using the filereader and filewriter api.
+
+to read a file using JavaScript you can create a filereader object and use it readastext method to read the content of the file.
+
+to write the file using JavaScript you can create filewriter object and use it write method to write the content to the file.

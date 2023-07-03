@@ -1,0 +1,6 @@
+17.What are the disadvantages of using innerHTML in JavaScript
+
+A) ->security
+   ->perfomance
+   ->accessibilty
+   ->maintainability

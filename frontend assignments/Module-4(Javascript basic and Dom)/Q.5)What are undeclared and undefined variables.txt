@@ -1,0 +1,5 @@
+5.What are undeclared and undefined variables
+
+A) an undeclared variables is variables that has not been declared with the 'var','let','const' if you try to use an undeclared variables JavaScript will throw the referenc error and the program will stop execting.
+
+undefined variables:- is variables that has been declared but has not been assigned a value when you try to use undefined variables JavaScript will not throw error but it will return the value undefined
