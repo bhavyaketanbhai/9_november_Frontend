@@ -1,0 +1,5 @@
+2.What is a Bootstrap Container, and how does it work?
+
+A) A Bootstrap Container is a class that helps center and contain the content of the webpage 
+
+->Bootstrap container works by wrapping the content of the webpage in container class.This class sets a fixed width for the content and center it on the page creating a consistent and responsive layout.

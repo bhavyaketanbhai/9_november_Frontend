@@ -1,0 +1,3 @@
+8.In Bootstrap 4, what is flexbox
+
+A)Flexbox is layout mode in Bootstrap 4 that provide more efficient way to layout align and distribute space among items in a container the flexbox layout mode is based on a set of css properties that allows you to create flexible and responsive layout width ease.

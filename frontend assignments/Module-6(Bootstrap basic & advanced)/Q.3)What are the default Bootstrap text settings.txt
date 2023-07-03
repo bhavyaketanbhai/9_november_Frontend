@@ -1,0 +1,10 @@
+3.What are the default Bootstrap text settings?
+
+A) The default Bootstrap text settings are:-
+
+   -> font size:- 1rem(16px)
+   -> line-height:- 1.5
+   -> font-weight:- 400
+   -> font-family:- system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif
+   -> text-align:- left
+   -> color:- #212529

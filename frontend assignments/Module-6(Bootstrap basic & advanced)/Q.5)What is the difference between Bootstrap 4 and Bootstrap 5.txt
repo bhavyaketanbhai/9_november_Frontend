@@ -1,0 +1,11 @@
+5.What is the difference between Bootstrap 4 and Bootstrap 5
+
+A) Bootstrap is the latest version of the and has several difference from Bootstrap 4
+
+->Bootstrap 5 has removed jquery
+->while Bootstrap 4 has jquery
+
+->Bootstrap 5 is faster then Bootstrap 4
+->Bootstrap 4 is slow.
+
+->

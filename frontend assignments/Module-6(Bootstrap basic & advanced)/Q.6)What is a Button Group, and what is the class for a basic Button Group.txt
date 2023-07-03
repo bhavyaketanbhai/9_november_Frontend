@@ -1,0 +1,6 @@
+6.What is a Button Group, and what is the class for a basic Button Group?
+
+A) A Button Group is set of Button that are grouped together in single line it allows you to Group related Button together and apply styles to them as Group
+
+The class for basic Button group is:-
+".btn-group"

@@ -1,0 +1,9 @@
+1)What are the advantages of Bootstrap?
+
+A) -> responsive grid
+   -> Pre-made html components
+   -> Cross Browser Compatibility
+   -> Easy To Use
+   -> Flexibility
+
+Thus are the some of the advantages of Bootstrap

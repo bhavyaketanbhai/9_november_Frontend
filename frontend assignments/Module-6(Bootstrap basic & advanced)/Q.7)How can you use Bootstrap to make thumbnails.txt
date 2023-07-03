@@ -1,0 +1,9 @@
+7.How can you use Bootstrap to make thumbnails
+
+A)it is used for image thumbnails
+
+->to create a thumbnails use the "img-thumbnail" class on an image element you can also wrap the image in a "div" element with the class "card" to additonal styling
+
+<div class="card">
+  <img src = "image.jpg" class = "img-thumbnail" alt="..." />
+</div>
